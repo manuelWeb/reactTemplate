@@ -1,0 +1,33 @@
+{
+  "type": "template1",
+  "template": {
+    "top":{
+      "left": {
+        "style": {
+          "backgroundColor": "lightcoral"
+        },
+        "button": {
+          "label": "bouton haut gauche",
+          "analytics": "test"
+        }
+      },
+      "right": {
+        "button": {
+          "label": "bouton haut droite"
+        }
+      }
+    },
+    "bottom": {
+      "left": {
+        "button": {
+          "label": "bouton bas gauche"
+        }
+      },
+      "right": {
+        "button": {
+          "label": "bouton bas droite"
+        }
+      }
+    }
+  }
+}

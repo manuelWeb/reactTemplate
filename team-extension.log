@@ -1,0 +1,46 @@
+2019-09-25T15:37:03.171Z - info:   [09000] *** FOLDER: c:\Users\mmutte\Desktop\React\poc-template-json ***
+2019-09-25T15:37:03.171Z - info:   [09000] AzureReposVSCode/1.149.2 (VSCode 1.38.1; Windows_NT 10.0.14393; Node 10.11.0)
+2019-09-25T15:37:03.171Z - debug:  [09000] Looking for an External Context at c:\Users\mmutte\Desktop\React\poc-template-json
+2019-09-25T15:37:03.171Z - debug:  [09000] No External Context at c:\Users\mmutte\Desktop\React\poc-template-json
+2019-09-25T15:37:03.178Z - debug:  [09000] Looking for TFVC repository at c:\Users\mmutte\Desktop\React\poc-template-json
+2019-09-25T15:37:03.178Z - debug:  [09000] TFVC Creating Tfvc object with localPath='undefined'
+2019-09-25T15:37:03.178Z - debug:  [09000] Using TFS proxy: 
+2019-09-25T15:37:03.178Z - debug:  [09000] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\TeamExplorer\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2019-09-25T15:37:03.178Z - debug:  [09000] TFVC Repository created with repositoryRootFolder='c:\Users\mmutte\Desktop\React\poc-template-json'
+2019-09-25T15:37:03.179Z - debug:  [09000] TFVC Repository.CheckVersion
+2019-09-25T15:37:03.179Z - debug:  [09000] TFVC: tf add -noprompt -?
+2019-09-25T15:37:03.190Z - debug:  [09000] TFVC: spawned new process (duration: 11ms)
+2019-09-25T15:37:03.205Z - debug:  [09000] TFVC: spawned new process (duration: 14ms)
+2019-09-25T15:37:03.874Z - debug:  [09000] TFVC: add exit code: 0 (duration: 694ms)
+2019-09-25T15:37:03.874Z - debug:  [09000] TFVC Minimum required version: 14.102.0
+2019-09-25T15:37:03.874Z - debug:  [09000] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2019-09-25T15:37:03.874Z - debug:  [09000] TFVC Repository.FindWorkspace with localPath='c:\Users\mmutte\Desktop\React\poc-template-json'
+2019-09-25T15:37:03.874Z - debug:  [09000] TFVC: tf workfold -noprompt c:\Users\mmutte\Desktop\React\poc-template-json
+2019-09-25T15:37:03.886Z - debug:  [09000] TFVC: spawned new process (duration: 11ms)
+2019-09-25T15:37:03.986Z - debug:  [09000] TFVC: workfold exit code: 100 (duration: 111ms)
+2019-09-25T15:37:03.986Z - debug:  [09000] TFVC errors (via stderr): Unable to determine the source control server.
+
+2019-09-25T15:37:03.987Z - error:  [09000] Could not find a workspace with mappings (e.g., not a TFVC repository, wrong version of TF is being used).
+2019-09-26T07:26:42.325Z - info:   [14928] *** FOLDER: c:\Users\mmutte\Desktop\React\poc-template-json ***
+2019-09-26T07:26:42.325Z - info:   [14928] AzureReposVSCode/1.149.2 (VSCode 1.38.1; Windows_NT 10.0.14393; Node 10.11.0)
+2019-09-26T07:26:42.325Z - debug:  [14928] Looking for an External Context at c:\Users\mmutte\Desktop\React\poc-template-json
+2019-09-26T07:26:42.325Z - debug:  [14928] No External Context at c:\Users\mmutte\Desktop\React\poc-template-json
+2019-09-26T07:26:42.339Z - debug:  [14928] Looking for TFVC repository at c:\Users\mmutte\Desktop\React\poc-template-json
+2019-09-26T07:26:42.339Z - debug:  [14928] TFVC Creating Tfvc object with localPath='undefined'
+2019-09-26T07:26:42.339Z - debug:  [14928] Using TFS proxy: 
+2019-09-26T07:26:42.340Z - debug:  [14928] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\TeamExplorer\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2019-09-26T07:26:42.340Z - debug:  [14928] TFVC Repository created with repositoryRootFolder='c:\Users\mmutte\Desktop\React\poc-template-json'
+2019-09-26T07:26:42.341Z - debug:  [14928] TFVC Repository.CheckVersion
+2019-09-26T07:26:42.341Z - debug:  [14928] TFVC: tf add -noprompt -?
+2019-09-26T07:26:42.695Z - debug:  [14928] TFVC: spawned new process (duration: 354ms)
+2019-09-26T07:26:42.710Z - debug:  [14928] TFVC: spawned new process (duration: 14ms)
+2019-09-26T07:26:43.767Z - debug:  [14928] TFVC: add exit code: 0 (duration: 1426ms)
+2019-09-26T07:26:43.767Z - debug:  [14928] TFVC Minimum required version: 14.102.0
+2019-09-26T07:26:43.767Z - debug:  [14928] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2019-09-26T07:26:43.768Z - debug:  [14928] TFVC Repository.FindWorkspace with localPath='c:\Users\mmutte\Desktop\React\poc-template-json'
+2019-09-26T07:26:43.768Z - debug:  [14928] TFVC: tf workfold -noprompt c:\Users\mmutte\Desktop\React\poc-template-json
+2019-09-26T07:26:43.778Z - debug:  [14928] TFVC: spawned new process (duration: 10ms)
+2019-09-26T07:26:43.864Z - debug:  [14928] TFVC: workfold exit code: 100 (duration: 96ms)
+2019-09-26T07:26:43.864Z - debug:  [14928] TFVC errors (via stderr): Unable to determine the source control server.
+
+2019-09-26T07:26:43.864Z - error:  [14928] Could not find a workspace with mappings (e.g., not a TFVC repository, wrong version of TF is being used).

@@ -1,0 +1,13 @@
+{
+  "type": "template2",
+  "template": {
+    "image": {
+      "url": "https://picsum.photos/id/1043/518/345",
+      "alt": "mon image"
+    },
+    "link": {
+      "href": "https://www.becquet.fr",
+      "text": "Becquet"
+    }
+  }
+}
